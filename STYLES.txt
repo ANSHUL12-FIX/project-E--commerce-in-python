@@ -1,0 +1,6 @@
+COLOR SHADES
+
+#FFFFFF- White
+#E91818 - Red
+#000000 - Black
+#C8C8C8 - Dark Grey
